@@ -1,0 +1,21 @@
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\bin\Debug\Mini Library Management.exe.config
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\bin\Debug\Mini Library Management.exe
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\bin\Debug\Mini Library Management.pdb
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\bin\Debug\Mini Library Management.xml
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini Library Management.vbprojAssemblyReference.cache
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmLogin.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.Resources.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.SplashScreen1.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini Library Management.vbproj.GenerateResource.cache
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini Library Management.vbproj.CoreCompileInputs.cache
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini Library Management.exe
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini Library Management.xml
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini Library Management.pdb
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmHomeScreen.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmGenre.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmBook.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmBookDetails.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmNewBorrower.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmReturnBook.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmTotalBook.resources
+C:\Users\user10\Desktop\CSC301 VISUAL PROGRAMMING\Group project\Mini Library Management System\Mini Library Management\Mini Library Management\obj\Debug\Mini_Library_Management.frmTotalUnreturn.resources
